@@ -196,20 +196,20 @@ header {
   }
 }
 
-.progress-line .html {
-  width: 80%;
+.progress-line .Flutter {
+  width: 90%;
 }
-.progress-line .css {
-  width: 70%;
+.progress-line .Dart {
+  width: 90%;
 }
-.progress-line .bootstrap {
+.progress-line .Angular {
   width: 50%;
 }
-.progress-line .javascript {
-  width: 50%;
-}
-.progress-line .flutter {
+.progress-line .HTML {
   width: 70%;
+}
+.progress-line .CommunicationSkills {
+  width: 90%;
 }
 
 .bar .progress-line span::before {
@@ -238,20 +238,20 @@ header {
   border-radius: 3px;
 }
 
-.progress-line .html::after {
-  content: "80%";
+.progress-line .Flutter::after {
+  content: "90%";
 }
-.progress-line .css::after {
-  content: "70%";
+.progress-line .Dart::after {
+  content: "90%";
 }
-.progress-line .bootstrap::after {
+.progress-line .Angular::after {
   content: "50%";
 }
-.progress-line .javascript::after {
-  content: "50%";
-}
-.progress-line .flutter::after {
+.progress-line .HTML::after {
   content: "70%";
+}
+.progress-line .CommunicationSkills::after {
+  content: "90%";
 }
 
 .navbar.solid {
